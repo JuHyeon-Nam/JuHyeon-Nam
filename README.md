@@ -73,7 +73,7 @@
 <table>
   <tr>
     <td width="50%">
-      <h3>ServiceRobot_AI</h3>
+      <h3><a href="https://github.com/JuHyeon-Nam/ServiceRobot_AI">ServiceRobot_AI</a></h3>
       <p>다채널 센서 기반 서비스 로봇 예지보전 및 디지털 트윈 관제 프로젝트</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -85,7 +85,7 @@
       <a href="https://github.com/JuHyeon-Nam/ServiceRobot_AI">Repository 보기</a>
     </td>
     <td width="50%">
-      <h3>Semiconductor Process Fault Detection</h3>
+      <h3><a href="https://github.com/JuHyeon-Nam/semiconductor-process-fault-detection">Semiconductor Process Fault Detection</a></h3>
       <p>반도체 공정 센서 데이터 기반 이상 탐지 및 불량 예측 프로젝트</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -99,7 +99,7 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3>SSAFY AI Challenge</h3>
+      <h3><a href="https://github.com/JuHyeon-Nam/Recycle_VQA_Challenge">Recycle VQA Challenge</a></h3>
       <p>재활용품 이미지 기반 VQA 모델 개발 대회</p>
       <p>
         <img src="https://img.shields.io/badge/Vision%20AI-7C3AED?style=flat-square" />
@@ -109,9 +109,10 @@
       </p>
       <p><b>193팀 중 1위</b>. Qwen 기반 비전 추론과 DINO 기반 객체 탐지를 결합해 노이즈가 많은 이미지 환경에서 성능을 개선</p>
       <p>비정형 이미지 데이터 전처리, 모델 앙상블, 예측 신뢰도 비교, 교차검증 파이프라인 설계</p>
+      <a href="https://github.com/JuHyeon-Nam/Recycle_VQA_Challenge">Repository 보기</a>
     </td>
     <td width="50%">
-      <h3>HEOGAON</h3>
+      <h3><a href="https://github.com/JuHyeon-Nam/HEOGAON">HEOGAON</a></h3>
       <p>소상공인을 위한 AI 인허가 사전 진단 서비스</p>
       <p>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
@@ -121,30 +122,22 @@
       </p>
       <p><b>SSAFY x Kakao Tech Bootcamp AI Hackathon 본선 진출</b>. 103팀 중 6팀 선발</p>
       <p>법령/행정 문서 기반 지식그래프를 활용해 LLM 답변의 누락과 환각을 줄이는 구조 설계</p>
+      <a href="https://github.com/JuHyeon-Nam/HEOGAON">Repository 보기</a>
     </td>
   </tr>
 </table>
 
-### ServiceRobot_AI
+<br>
 
-다채널 센서 데이터를 이용해 서비스 로봇의 상태를 진단하고, 고장 가능성을 예측하는 프로젝트입니다.
+## 연구 및 직무 연결성
 
-- 로봇 센서 데이터로 정상 및 고장 상태 분류
-- FFT 주파수 피처, 추세 피처, 누적 운전량 피처 설계
-- LightGBM 기반 경량 고장진단 모델 구현
-- FastAPI 기반 추론 서버와 실시간 관제 대시보드 구현
-- 공식 검증 정확도 93.4%, 랜덤 분할 기준 97.7%
-- 희귀 고장 데이터 부족과 정상 데이터 중첩 문제를 EDA로 분석
-
-이 프로젝트는 향후 **가공 설비, AMR, 제조 로봇의 진동·전류·비전 데이터 기반 PHM 연구**로 확장할 수 있는 기반 프로젝트입니다.
-
-### Semiconductor Process Fault Detection
-
-반도체 공정 센서 데이터를 활용한 이상 탐지 및 불량 예측 프로젝트입니다.
-
-- SECOM 공정 데이터 기반 결측치, 고차원 변수, 불균형 라벨 처리
-- 단순 정확도보다 Recall, F2-score, PR-AUC 중심으로 평가
-- 공정 이상 감지, FDC, 수율 예측 관점으로 해석
+| 축 | 연결되는 역량 |
+|---|---|
+| 제조 AI / PHM | 센서 기반 상태진단, 이상 탐지, 예지보전 모델링 |
+| 스마트팩토리 / 디지털 트윈 | 실시간 추론 서버, 대시보드, 설비 상태 관제 |
+| 산업 데이터 분석 | 불균형 데이터, 결측치, 노이즈, 도메인 변화 대응 |
+| 현장 이해 | PLC, 센서 I/O, 인터락, 설비 에러 로그 기반 문제 분석 |
+| AI 서비스 구현 | FastAPI, Next.js, Knowledge Graph, VQA/Computer Vision 프로젝트 경험 |
 
 <br>
 
@@ -216,10 +209,12 @@ PLC, 센서 I/O, 인터락, 설비 에러 로그를 직접 다루며 제조 현�
 <p>
   <a href="https://github.com/JuHyeon-Nam/ServiceRobot_AI"><img src="https://img.shields.io/badge/Main%20Project-ServiceRobot__AI-1D4ED8?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://github.com/JuHyeon-Nam/semiconductor-process-fault-detection"><img src="https://img.shields.io/badge/Project-Semiconductor%20Fault%20Detection-0F766E?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/JuHyeon-Nam/Recycle_VQA_Challenge"><img src="https://img.shields.io/badge/Award%20Project-Recycle%20VQA%20Challenge-7C3AED?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/JuHyeon-Nam/HEOGAON"><img src="https://img.shields.io/badge/Hackathon-HEOGAON-F59E0B?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 주요 공개 프로젝트는 제조 설비와 산업 데이터 문제를 중심으로 정리하고 있습니다.  
-특히 센서 기반 이상 탐지, 예지보전, 실시간 추론, 디지털 트윈 관제를 하나의 흐름으로 연결하는 포트폴리오를 구축하고 있습니다.
+특히 센서 기반 이상 탐지, 예지보전, 실시간 추론, 디지털 트윈 관제, 비전 AI, AI 서비스 구현을 하나의 흐름으로 연결하는 포트폴리오를 구축하고 있습니다.
 
 <br>
 
