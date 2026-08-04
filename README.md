@@ -97,6 +97,32 @@
       <a href="https://github.com/JuHyeon-Nam/semiconductor-process-fault-detection">Repository 보기</a>
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <h3>SSAFY AI Challenge</h3>
+      <p>재활용품 이미지 기반 VQA 모델 개발 대회</p>
+      <p>
+        <img src="https://img.shields.io/badge/Vision%20AI-7C3AED?style=flat-square" />
+        <img src="https://img.shields.io/badge/VQA-2563EB?style=flat-square" />
+        <img src="https://img.shields.io/badge/Ensemble-0F766E?style=flat-square" />
+        <img src="https://img.shields.io/badge/Grand%20Prize-DC2626?style=flat-square" />
+      </p>
+      <p><b>193팀 중 1위</b>. Qwen 기반 비전 추론과 DINO 기반 객체 탐지를 결합해 노이즈가 많은 이미지 환경에서 성능을 개선</p>
+      <p>비정형 이미지 데이터 전처리, 모델 앙상블, 예측 신뢰도 비교, 교차검증 파이프라인 설계</p>
+    </td>
+    <td width="50%">
+      <h3>HEOGAON</h3>
+      <p>소상공인을 위한 AI 인허가 사전 진단 서비스</p>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Knowledge%20Graph-334155?style=flat-square" />
+        <img src="https://img.shields.io/badge/Finalist-F59E0B?style=flat-square" />
+      </p>
+      <p><b>SSAFY x Kakao Tech Bootcamp AI Hackathon 본선 진출</b>. 103팀 중 6팀 선발</p>
+      <p>법령/행정 문서 기반 지식그래프를 활용해 LLM 답변의 누락과 환각을 줄이는 구조 설계</p>
+    </td>
+  </tr>
 </table>
 
 ### ServiceRobot_AI
@@ -126,8 +152,8 @@
 
 | 활동 | 성과 |
 |---|---|
-| SSAFY AI Challenge | 재활용품 이미지 기반 VQA 모델 개발, 193팀 중 1위 |
-| SSAFY x Kakao Tech Bootcamp AI Hackathon | AI 인허가 사전 진단 서비스, 103팀 중 6팀 본선 |
+| SSAFY AI Challenge | 재활용품 이미지 기반 VQA 모델 개발, 193팀 중 1위, 최우수상 |
+| SSAFY x Kakao Tech Bootcamp AI Hackathon | AI 인허가 사전 진단 서비스 HEOGAON, 103팀 중 6팀 본선 |
 | ServiceRobot_AI | 센서 기반 PHM/디지털 트윈 관제 파이프라인 구현 |
 | Semiconductor Process Fault Detection | 반도체 공정 이상 탐지 포트폴리오 구축 |
 
@@ -152,7 +178,7 @@ PLC, 센서 I/O, 인터락, 설비 에러 로그를 직접 다루며 제조 현�
 
 <br>
 
-## 학력 및 자격
+## 학력
 
 | 구분 | 내용 |
 |---|---|
@@ -160,8 +186,28 @@ PLC, 센서 I/O, 인터락, 설비 에러 로그를 직접 다루며 제조 현�
 | 성적 | 누적 학점 3.91 / 4.5 |
 | 이전 전공 | 금오공과대학교 전자공학부 반도체시스템전공 수학 |
 | 기반 전공 | 마이스터고 정밀기계과 졸업 |
-| 자격 | Google AI Professional Certificate, ADsP, TOEIC 725, OPIc IM2 |
-| 제조 자격 | 금형기능사, 승강기기능사, 컴퓨터응용선반기능사, 컴퓨터응용밀링기능사 |
+
+<br>
+
+## 자격 및 어학
+
+| 분류 | 자격 |
+|---|---|
+| AI / 데이터 | Google AI Professional Certificate, ADsP |
+| 어학 | TOEIC 725, OPIc IM2 |
+| 정보처리 / OA | 정보처리기능사, 컴퓨터활용능력 2급 |
+| 제조 / 기계 | 금형기능사, 컴퓨터응용선반기능사, 컴퓨터응용밀링기능사 |
+| 설비 / 안전 | 승강기기능사 |
+| 비즈니스 / 커뮤니케이션 | 텔레마케팅관리사 |
+
+<p>
+  <img src="https://img.shields.io/badge/Google%20AI-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/ADsP-0F766E?style=flat-square" />
+  <img src="https://img.shields.io/badge/TOEIC-725-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/OPIc-IM2-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/PLC%20%2F%20Manufacturing-334155?style=flat-square" />
+  <img src="https://img.shields.io/badge/Mechanical%20Craftsman-64748B?style=flat-square" />
+</p>
 
 <br>
 
