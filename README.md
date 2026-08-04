@@ -70,14 +70,34 @@
 
 ## 대표 포트폴리오
 
-<p align="center">
-  <a href="https://github.com/JuHyeon-Nam/ServiceRobot_AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JuHyeon-Nam&repo=ServiceRobot_AI&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/JuHyeon-Nam/semiconductor-process-fault-detection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JuHyeon-Nam&repo=semiconductor-process-fault-detection&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <h3>ServiceRobot_AI</h3>
+      <p>다채널 센서 기반 서비스 로봇 예지보전 및 디지털 트윈 관제 프로젝트</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/LightGBM-02569B?style=flat-square" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+      </p>
+      <p><b>공식 검증 정확도 93.4%</b>, 센서 피처 설계, 실시간 추론 서버, 관제 대시보드 구현</p>
+      <a href="https://github.com/JuHyeon-Nam/ServiceRobot_AI">Repository 보기</a>
+    </td>
+    <td width="50%">
+      <h3>Semiconductor Process Fault Detection</h3>
+      <p>반도체 공정 센서 데이터 기반 이상 탐지 및 불량 예측 프로젝트</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+        <img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square" />
+        <img src="https://img.shields.io/badge/PR--AUC-0F766E?style=flat-square" />
+      </p>
+      <p><b>불균형 공정 데이터</b>를 Recall, F2-score, PR-AUC 중심으로 평가하고 해석</p>
+      <a href="https://github.com/JuHyeon-Nam/semiconductor-process-fault-detection">Repository 보기</a>
+    </td>
+  </tr>
+</table>
 
 ### ServiceRobot_AI
 
@@ -145,12 +165,15 @@ PLC, 센서 I/O, 인터락, 설비 에러 로그를 직접 다루며 제조 현�
 
 <br>
 
-## GitHub
+## GitHub 활동
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuHyeon-Nam&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuHyeon-Nam&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+<p>
+  <a href="https://github.com/JuHyeon-Nam/ServiceRobot_AI"><img src="https://img.shields.io/badge/Main%20Project-ServiceRobot__AI-1D4ED8?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/JuHyeon-Nam/semiconductor-process-fault-detection"><img src="https://img.shields.io/badge/Project-Semiconductor%20Fault%20Detection-0F766E?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
+
+주요 공개 프로젝트는 제조 설비와 산업 데이터 문제를 중심으로 정리하고 있습니다.  
+특히 센서 기반 이상 탐지, 예지보전, 실시간 추론, 디지털 트윈 관제를 하나의 흐름으로 연결하는 포트폴리오를 구축하고 있습니다.
 
 <br>
 
