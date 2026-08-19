@@ -102,7 +102,7 @@
       <a href="https://github.com/JuHyeon-Nam/ServiceRobot_AI">Repository 보기</a>
     </td>
     <td width="50%">
-      <h3><a href="https://github.com/JuHyeon-Nam/semiconductor-process-fault-detection">Semiconductor Process Fault Detection</a></h3>
+      <h3><a href="https://github.com/JuHyeon-Nam/semiconductor-process-fault-detection">Semiconductor<br>Fault Detection</a></h3>
       <p>반도체 공정 센서 데이터 기반 이상 탐지 및 불량 예측 프로젝트</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -212,20 +212,9 @@
   <img src="https://img.shields.io/badge/TOEIC-725-2563EB?style=flat-square" />
   <img src="https://img.shields.io/badge/OPIc-IM2-7C3AED?style=flat-square" />
   <img src="https://img.shields.io/badge/TOEIC%20Speaking-IM3%20%28130%29-0F766E?style=flat-square" />
-  <img src="https://img.shields.io/badge/PLC%20%2F%20Manufacturing-334155?style=flat-square" />
-  <img src="https://img.shields.io/badge/Mechanical%20Craftsman-64748B?style=flat-square" />
 </p>
 
 <br>
-
-## GitHub 활동
-
-<p>
-  <a href="https://github.com/JuHyeon-Nam/ServiceRobot_AI"><img src="https://img.shields.io/badge/Main%20Project-ServiceRobot__AI-1D4ED8?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://github.com/JuHyeon-Nam/semiconductor-process-fault-detection"><img src="https://img.shields.io/badge/Project-Semiconductor%20Fault%20Detection-0F766E?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://github.com/JuHyeon-Nam/Recycle_VQA_Challenge"><img src="https://img.shields.io/badge/Award%20Project-Recycle%20VQA%20Challenge-7C3AED?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://github.com/JuHyeon-Nam/HEOGAON"><img src="https://img.shields.io/badge/Hackathon-HEOGAON-F59E0B?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
 
 ## 연락처
 
