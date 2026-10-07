@@ -28,9 +28,9 @@
 
 **센서 특징 추출부터 고장 분류, 3D 관제와 정비 이력까지 연결한 상태진단 시스템**
 
-[![ServiceRobot_AI 통합 3D 관제 화면](https://raw.githubusercontent.com/JuHyeon-Nam/ServiceRobot_AI/main/assets/twin_workspace.png)](https://github.com/JuHyeon-Nam/ServiceRobot_AI/blob/main/assets/twin_walkthrough.mp4)
+[![ServiceRobot_AI 실제 관제 실행 화면](https://raw.githubusercontent.com/JuHyeon-Nam/JuHyeon-Nam/main/phm-running.png)](https://github.com/JuHyeon-Nam/ServiceRobot_AI/blob/main/assets/twin_walkthrough.mp4)
 
-<sub>구현된 관제 화면 · 공개 데이터·리플레이·합성 입력 기반 시연</sub>
+<sub>실제 앱 실행 화면 · AGV 선택·배터리 이상 시연·센서 추이 · 공개 데이터·리플레이·합성 입력 기반</sub>
 
 `Python` `LightGBM` `FastAPI` `WebSocket` `Three.js` `SQLite` `MQTT`
 
@@ -45,9 +45,9 @@
 
 **불량 탐지율뿐 아니라 미탐과 오탐의 검토 부담까지 함께 평가한 제조 센서 분석**
 
-[![반도체 불량탐지 분석 결과](https://raw.githubusercontent.com/JuHyeon-Nam/JuHyeon-Nam/main/portfolio-secom.png)](https://github.com/JuHyeon-Nam/semiconductor-process-fault-detection)
+[![반도체 모델 비교 리포트 실제 화면](https://raw.githubusercontent.com/JuHyeon-Nam/JuHyeon-Nam/main/secom-report.png)](https://github.com/JuHyeon-Nam/semiconductor-process-fault-detection)
 
-<sub>프로젝트의 HTML 분석 리포트 화면 · SECOM 공개 데이터의 실제 평가 결과</sub>
+<sub>실제 HTML 분석 리포트의 모델 비교 표 캡처 · SECOM 공개 데이터의 평가 결과</sub>
 
 `Python` `pandas` `NumPy` `scikit-learn` `ExtraTrees`
 
@@ -79,9 +79,9 @@
 
 **재활용품 이미지와 질문을 함께 해석하는 멀티모달 AI 과제**
 
-[![Recycle VQA 성과와 오답 분석 흐름](https://raw.githubusercontent.com/JuHyeon-Nam/JuHyeon-Nam/main/portfolio-vqa.png)](https://github.com/JuHyeon-Nam/Recycle_VQA_Challenge)
+[![Recycle VQA 팀 최우수상 수상식 원본 사진](https://raw.githubusercontent.com/JuHyeon-Nam/Recycle_VQA_Challenge/master/assets/award_ceremony.jpg)](https://github.com/JuHyeon-Nam/Recycle_VQA_Challenge)
 
-<sub>공개 기록을 바탕으로 만든 프로젝트 요약 시각화 · 실행 화면이 아님</sub>
+<sub>AI 챌린지 최우수상 수상식 · 팀 성과</sub>
 
 `Qwen` `InternVL` `Prediction Comparison` `Error Analysis`
 
@@ -95,9 +95,15 @@
 
 **자연어 창업 계획을 확인 항목·준비 서류·담당 부서로 연결하는 AI 인허가 사전진단**
 
-[![HEOGAON 서비스와 응답 검증 흐름](https://raw.githubusercontent.com/JuHyeon-Nam/JuHyeon-Nam/main/portfolio-heogaon.png)](https://github.com/JuHyeon-Nam/HEOGAON)
+<table>
+<tr><th>조건 확인·진단</th><th>서류 준비·진행 순서</th></tr>
+<tr>
+<td><a href="https://github.com/JuHyeon-Nam/HEOGAON"><img src="https://raw.githubusercontent.com/JuHyeon-Nam/JuHyeon-Nam/main/heogaon-diagnosis-app.png" width="360" alt="HEOGAON 실제 앱 진단 화면"></a></td>
+<td><a href="https://github.com/JuHyeon-Nam/HEOGAON"><img src="https://raw.githubusercontent.com/JuHyeon-Nam/JuHyeon-Nam/main/heogaon-documents-app.png" width="360" alt="HEOGAON 실제 앱 서류 준비 화면"></a></td>
+</tr>
+</table>
 
-<sub>공개 구현 문서를 바탕으로 만든 서비스 흐름 시각화 · 실행 화면이 아님</sub>
+<sub>원래 앱의 실제 실행 캡처 · 앱에 포함된 개발용 예시 시나리오 사용 · 외부 API 실시간 판단 결과가 아님</sub>
 
 `User Scenarios` `Response Validation` `FastAPI` `Next.js` `SQLite`
 
@@ -111,10 +117,6 @@
 ### 06. CARCH
 
 **보유 카드 활용과 신규 카드 추천을 구분하는 카드 소비 코치**
-
-![CARCH 본인 담당 화면과 사용자 흐름](https://raw.githubusercontent.com/JuHyeon-Nam/JuHyeon-Nam/main/portfolio-carch.png)
-
-<sub>확인된 담당 범위를 정리한 화면 구성도 · 원본 앱 캡처가 아님</sub>
 
 `Vue 3` `UI/UX` `Recommendation Flow` `AI Chat`
 
@@ -161,4 +163,4 @@
 
 ---
 
-<sub>공개용 기술 포트폴리오 · 소속·세부 학적·근무기간·연락처는 비공개 · 이미지마다 실행 화면과 요약 시각화를 구분합니다.</sub>
+<sub>공개용 기술 포트폴리오 · 소속·세부 학적·근무기간·연락처는 비공개 · 실제 실행 캡처와 원본 수상 자료를 사용하며, 시연 데이터의 범위를 구분합니다.</sub>
