@@ -118,10 +118,22 @@
 
 **보유 카드 활용과 신규 카드 추천을 구분하는 카드 소비 코치**
 
+<table>
+<tr><th>소비 분석</th><th>카치AI 채팅</th></tr>
+<tr>
+<td><a href="https://github.com/whtjddlr/carch"><img src="https://raw.githubusercontent.com/whtjddlr/carch/81356ac769b7a8ca839a48dcae94e54acb829b40/docs/screenshots/appstore/iphone-6-9/02_analytics.png" width="300" alt="CARCH 실제 앱 소비 분석 화면"></a></td>
+<td><a href="https://github.com/whtjddlr/carch"><img src="https://raw.githubusercontent.com/whtjddlr/carch/81356ac769b7a8ca839a48dcae94e54acb829b40/docs/screenshots/appstore/iphone-6-9/05_chat.png" width="300" alt="CARCH 실제 앱 AI 채팅 시작 화면"></a></td>
+</tr>
+</table>
+
+<sub>팀 저장소에 공개된 실제 앱 캡처 원본 · 시연 데이터 · AI 채팅은 대화 시작 화면이며 응답 품질 검증 결과가 아님</sub>
+
 `Vue 3` `UI/UX` `Recommendation Flow` `AI Chat`
 
 - **본인 역할:** 카드 메인·소비계획·분석·AI 채팅 UI/UX 구현. 보유 카드 사용 추천과 신규 발급 추천을 구분하고 추천 근거를 화면에 연결했습니다.
 - **협업·성과:** 서비스 기획, 테스트와 발표 시나리오에 참여. 교육 과정 프로젝트 우수상·반 내 2위는 팀 성과입니다.
+
+[팀 코드·역할 분담](https://github.com/whtjddlr/carch) · [소비계획 화면](https://github.com/whtjddlr/carch/blob/81356ac769b7a8ca839a48dcae94e54acb829b40/docs/screenshots/budget.png)
 
 ## 기술 역량
 
