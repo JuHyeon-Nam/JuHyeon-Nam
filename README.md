@@ -18,9 +18,9 @@
 - **학점은행제 경영학사** · 학위 취득
 - **수원하이텍고등학교 정밀기계과** · 2020.02 졸업
 
-### 프로젝트
+## 프로젝트
 
-#### [무인운반로봇 진단·관제](https://github.com/JuHyeon-Nam/ServiceRobot_AI)
+### 🤖 [무인운반로봇 진단·관제 ↗](https://github.com/JuHyeon-Nam/ServiceRobot_AI) &ensp;<sub><code>FastAPI</code> <code>LightGBM</code></sub>
 
 로봇 한 대를 고르면 어떤 센서부터 점검할지 보여주는 관제 화면을 만들었습니다. 배터리와 주행 기록으로 고장 유형을 분류하고, FastAPI로 진단 결과와 근거가 된 센서 항목을 함께 보냅니다. [38초 시연](https://github.com/JuHyeon-Nam/ServiceRobot_AI/blob/main/assets/twin_walkthrough.mp4) · [모델 평가](https://github.com/JuHyeon-Nam/ServiceRobot_AI/blob/main/docs/MODEL_CARD.md)
 
@@ -28,7 +28,7 @@
 | :---: | :---: |
 | <a href="https://raw.githubusercontent.com/JuHyeon-Nam/ServiceRobot_AI/main/assets/twin_workspace.png"><img src="https://raw.githubusercontent.com/JuHyeon-Nam/ServiceRobot_AI/main/assets/twin_workspace.png" alt="로봇 관제 화면" width="275"></a> | <a href="https://raw.githubusercontent.com/JuHyeon-Nam/ServiceRobot_AI/main/assets/feature_importance.png"><img src="https://raw.githubusercontent.com/JuHyeon-Nam/ServiceRobot_AI/main/assets/feature_importance.png" alt="고장 진단에 쓰인 센서 특징" width="275"></a> |
 
-#### [반도체 공정 불량 탐지](https://github.com/JuHyeon-Nam/semiconductor-process-fault-detection)
+### 📊 [반도체 공정 불량 탐지 ↗](https://github.com/JuHyeon-Nam/semiconductor-process-fault-detection) &ensp;<sub><code>scikit-learn</code> <code>pandas</code></sub>
 
 불량을 더 많이 잡을 때 오경보가 얼마나 늘어나는지 SECOM 데이터로 비교했습니다. 선택한 기준으로 테스트한 결과, 불량 21건 중 16건을 찾았고 정상 66건에도 경보가 울렸습니다. [평가 결과](https://github.com/JuHyeon-Nam/semiconductor-process-fault-detection/blob/main/reports/model_card.md)
 
@@ -36,7 +36,7 @@
 | :---: | :---: |
 | <a href="https://raw.githubusercontent.com/JuHyeon-Nam/semiconductor-process-fault-detection/main/reports/figures/threshold_tradeoff.png"><img src="https://raw.githubusercontent.com/JuHyeon-Nam/semiconductor-process-fault-detection/main/reports/figures/threshold_tradeoff.png" alt="경보 기준에 따른 성능" width="275"></a> | <a href="https://raw.githubusercontent.com/JuHyeon-Nam/semiconductor-process-fault-detection/main/reports/figures/confusion_matrix_best.png"><img src="https://raw.githubusercontent.com/JuHyeon-Nam/semiconductor-process-fault-detection/main/reports/figures/confusion_matrix_best.png" alt="불량 탐지와 오경보 건수" width="275"></a> |
 
-#### [SSAFY AI 챌린지 · 재활용품 이미지 질의응답](https://github.com/JuHyeon-Nam/Recycle_VQA_Challenge)
+### 🏆 [SSAFY AI 챌린지 ↗](https://github.com/JuHyeon-Nam/Recycle_VQA_Challenge) &ensp;<sub><code>InternVL</code> <code>PyTorch</code></sub>
 
 사진 속 물건의 개수나 재질을 묻는 문제에서 InternVL 실험을 맡았습니다. 팀원과 두 모델의 오답을 질문 유형별로 비교해 최종 답안을 정했고, **193개 팀 중 1위로 최우수상**을 받았습니다.
 
@@ -44,7 +44,7 @@
 | :---: | :---: |
 | <a href="https://raw.githubusercontent.com/JuHyeon-Nam/Recycle_VQA_Challenge/master/assets/award_ceremony.jpg"><img src="https://raw.githubusercontent.com/JuHyeon-Nam/Recycle_VQA_Challenge/master/assets/award_ceremony.jpg" alt="최우수상 시상식" width="275"></a> | <a href="https://raw.githubusercontent.com/JuHyeon-Nam/Recycle_VQA_Challenge/master/assets/leaderboard_private.png"><img src="https://raw.githubusercontent.com/JuHyeon-Nam/Recycle_VQA_Challenge/master/assets/leaderboard_private.png" alt="최종 순위표" width="275"></a> |
 
-#### [카치 · 카드 혜택 비교](https://github.com/whtjddlr/carch)
+### 💳 [카치 · 카드 혜택 비교 ↗](https://github.com/whtjddlr/carch) &ensp;<sub><code>Vue 3</code> <code>REST API</code></sub>
 
 같은 소비 내역을 내 카드와 추천 카드로 결제하면 혜택이 얼마나 달라지는지 보여주는 서비스입니다. Vue로 소비 분석 화면을 만들고 팀원이 개발한 API를 연결했습니다.
 
@@ -52,7 +52,7 @@
 | :---: | :---: |
 | <a href="https://raw.githubusercontent.com/whtjddlr/carch/81356ac769b7a8ca839a48dcae94e54acb829b40/docs/screenshots/appstore/iphone-6-9/01_cards_home.png"><img src="https://raw.githubusercontent.com/whtjddlr/carch/81356ac769b7a8ca839a48dcae94e54acb829b40/docs/screenshots/appstore/iphone-6-9/01_cards_home.png" alt="보유 카드" width="145"></a> | <a href="https://raw.githubusercontent.com/whtjddlr/carch/81356ac769b7a8ca839a48dcae94e54acb829b40/docs/screenshots/appstore/iphone-6-9/02_analytics.png"><img src="https://raw.githubusercontent.com/whtjddlr/carch/81356ac769b7a8ca839a48dcae94e54acb829b40/docs/screenshots/appstore/iphone-6-9/02_analytics.png" alt="월별 소비 분석" width="145"></a> |
 
-#### [Wafer AI Analyst · 웨이퍼 전기 측정 데이터 분석](https://github.com/JuHyeon-Nam/wafer-ai-analyst)
+### 🔬 [Wafer AI Analyst ↗](https://github.com/JuHyeon-Nam/wafer-ai-analyst) &ensp;<sub><code>pandas</code> <code>Streamlit</code></sub>
 
 측정 장비가 내보낸 CSV와 엑셀 파일을 읽는 코드를 작성했습니다. 다이오드, 저항 등 소자별 측정 곡선과 이상 후보를 Streamlit 대시보드에서 살펴볼 수 있도록 연결했습니다.
 
@@ -60,7 +60,7 @@
 | :---: | :---: |
 | <a href="https://raw.githubusercontent.com/JuHyeon-Nam/wafer-ai-analyst/main/docs/assets/dashboard_summary.png"><img src="https://raw.githubusercontent.com/JuHyeon-Nam/wafer-ai-analyst/main/docs/assets/dashboard_summary.png" alt="측정 결과 요약" width="275"></a> | <a href="https://raw.githubusercontent.com/JuHyeon-Nam/wafer-ai-analyst/main/docs/assets/feature_table_preview.png"><img src="https://raw.githubusercontent.com/JuHyeon-Nam/wafer-ai-analyst/main/docs/assets/feature_table_preview.png" alt="소자별 측정 특징" width="275"></a> |
 
-#### [HEOGAON · 창업 인허가 안내](https://github.com/JuHyeon-Nam/HEOGAON)
+### 📋 [허가온 · 창업 인허가 안내 ↗](https://github.com/JuHyeon-Nam/HEOGAON) &ensp;<sub><code>시나리오 테스트</code> <code>AI 응답 검증</code></sub>
 
 창업 조건에 맞춰 필요한 서류를 안내하는 팀 프로젝트에서 AI 답변 검증을 맡았습니다. 판매 품목이나 시설 정보가 빠졌을 때 서비스가 되묻는지, 안내한 서류에 근거가 있는지 확인했습니다. [시연 영상](https://youtu.be/qiv1yjfYUZQ)
 
